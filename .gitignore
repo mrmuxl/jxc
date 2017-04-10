@@ -1,0 +1,7 @@
+test-results/
+tmp/
+public/
+public/css
+public/js
+public/fonts
+.idea/
