@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# jxc
-jxc
 =======
 # Welcome to Revel
 
@@ -45,4 +42,3 @@ The directory structure of a generated Revel application:
 * The [Revel sample apps](http://revel.github.io/examples/index.html).
 * The [API documentation](https://godoc.org/github.com/revel/revel).
 
->>>>>>> 	新文件：   .gitignore
